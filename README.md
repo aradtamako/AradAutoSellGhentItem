@@ -3,7 +3,7 @@
 https://github.com/aradtamako/AradAutoSellGhentItem/assets/40272766/6ed61707-a969-45d1-8bf1-5459430a6dd8
 
 # Requirements
-- [Python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/)<br>Tested on Python 3.10.10
 
 # How to use
 1. Install dependencies
