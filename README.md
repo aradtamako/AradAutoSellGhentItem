@@ -11,7 +11,15 @@ https://github.com/aradtamako/AradAutoSellGhentItem/assets/40272766/6ed61707-a96
 pip install -r requirements.txt
 ```
 
-2. Start macro
+2. Open Lindsey Rossum's shop window<br>①Choose `格闘家（女）`<br>②Set empty
+
+> __Warning__
+> 
+> DO NOT MOVE SHOP AND INVENTORY WINDOW
+ 
+![image](https://github.com/aradtamako/AradAutoSellGhentItem/assets/40272766/2e3e41d8-a11c-4a4c-b103-7e8952fd4a2d)
+
+3. Start macro
 ```
 python main.py
 ```
