@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 > __Warning__
 > 
-> DO NOT MOVE SHOP AND INVENTORY WINDOW
+> DO NOT MOVE SHOP WINDOW AND INVENTORY WINDOW
  
 ![image](https://github.com/aradtamako/AradAutoSellGhentItem/assets/40272766/2e3e41d8-a11c-4a4c-b103-7e8952fd4a2d)
 
